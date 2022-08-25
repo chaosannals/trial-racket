@@ -14,6 +14,8 @@ raco pkg install racket-langserver
 # 更新语言服务器
 raco pkg update racket-langserver
 
+# 安装条形码
+raco pkg install simple-barcode
 # 安装简单二维码包
 raco pkg install simple-qr
 ```
